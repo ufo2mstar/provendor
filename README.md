@@ -1,12 +1,11 @@
-<<<<<<< HEAD
-# README
+# ProVendor
+e-commerce project for food services
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Here is some info to quickly get this app up and running.
 
-Things you may want to cover:
+Will update laters:
 
-* Ruby version
+* Ruby version - 2.2.4
 
 * System dependencies
 
@@ -23,7 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-=======
-# provendor
-e-commerce project for food services
->>>>>>> d5f0f0a0dd825e48edce97041eb22dae015224b5
+
